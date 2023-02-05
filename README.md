@@ -2,7 +2,7 @@
 
 **Istruzioni per installare i driver del touchpad, touchscreen e penna wacom per i convertibili Acer su Ununtu**
 
-Scarica <u>SuperDriver.zip</u> nella tua cartella home.
+Scarica *SuperDriver.zip* nella tua cartella home.
 
 ---
 
@@ -10,9 +10,9 @@ Scarica <u>SuperDriver.zip</u> nella tua cartella home.
   
 - È necessario avere almeno 10MB di spazio libero sul disco e una connesione internet funzionante.
   
-- Aprire un terminale (<u>Control+Alt+T</u>) ed eseguire il seguente comando per soddisafare tutte le dipendenze: `sudo apt install xdotool acpi`
+- Aprire un terminale (*Control+Alt+T*) ed eseguire il seguente comando per soddisafare tutte le dipendenze: `sudo apt install xdotool acpi`
   
-- Assicurarsi che il contenuto di SuperDriver.zip sia stato estratto in <u>$YOUR_HOME_DIRECTORY</u>, aprire un terminale nella propria cartella home (tasto destro nel vuoto, Apri nel terminale)
+- Assicurarsi che il contenuto di SuperDriver.zip sia stato estratto in *$YOUR_HOME_DIRECTORY*, aprire un terminale nella propria cartella home (tasto destro nel vuoto, Apri nel terminale)
   
 - Consentire l'esecuzione del file *install.sh* con `chmod u+x install.sh`
   
