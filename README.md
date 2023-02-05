@@ -2,6 +2,8 @@
 
 **Istruzioni per installare i driver del touchpad, touchscreen e penna wacom per i convertibili Acer su Ununtu**
 
+Scarica <u>SuperDriver.zip</u> nella tua cartella home.
+
 ---
 
 - Verificare la distribuzione i uso; questi driver sono stati testati solo per Ubuntu (20.04.4 LTS), potrebbero non finzionare su altre distibuzioni.
