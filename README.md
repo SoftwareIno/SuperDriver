@@ -30,3 +30,22 @@ Una volta terminata l'installazione il computer verrà riavviato e touchpad, tou
 ---
 
 Driver version: 2.01 for Ubuntu 20.04.4 LTS (Focal Fossa)
+
+
+FAQ
+
+**1.**
+
+> Perchè il driver per il tasto destro della penna non funziona su Wayland?
+> 
+> ---
+> 
+> Per funzionare il driver per il tasto destr della penna Wacom utilizza <u>xinput</u> e <u>xdotool</u>, due tool di sistema che non funzionano (correttamente) so Wayland.
+
+**2.**
+
+> Perchè quando premo il pulsante destro della penna senza toccare lo schermo, il clik viene eseguito comunque?
+> 
+> ---
+> 
+> Questa è un opzione gestita dai driver xsetwacom
