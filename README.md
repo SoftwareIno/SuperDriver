@@ -32,7 +32,7 @@ Una volta terminata l'installazione il computer verrà riavviato e touchpad, tou
 Driver version: 2.01 for Ubuntu 20.04.4 LTS (Focal Fossa)
 
 
-# FAQ
+## FAQ
 
 **1.**
 
